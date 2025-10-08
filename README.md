@@ -4,7 +4,8 @@ A real-time big data analytics system for monitoring urban traffic patterns usin
 
 Table of Contents
 
-[Features](https://github.com/user-attachments/files/22759503/Features.txt)
+[Features](https://github.com/user-attachments/files/22759605/Features.txt)
+
 
 Technology Stack
 
@@ -22,6 +23,5 @@ Contributing
 
 License
 
-[Features](https://github.com/user-attachments/files/22759503/Features.txt)
 
 
